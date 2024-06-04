@@ -69,3 +69,4 @@ while True:
     elif opcion == 7:
         print("")
         print("Programa finalizado.")
+        break
